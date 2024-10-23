@@ -9,5 +9,9 @@ public class InputFromKeyboard {
         double secondNum = scanner.nextDouble();
 
         System.out.println("Summa = " + (firstNum + secondNum));
+        System.out.println("Addition" + (firstNum + secondNum));
+        System.out.println("Substraction" + (firstNum - secondNum));
+        System.out.println("Multiplikacion" + (firstNum * secondNum));
+        System.out.println("Division" + (firstNum/secondNum));
     }
 }
