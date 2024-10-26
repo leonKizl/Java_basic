@@ -17,10 +17,10 @@ public class ForLoopWhileLoop {
 
 
 
-        int[] table = new int[] {1,3,5};
+        int[] table = new int[] {1,3,5,7,0};
         System.out.println(table.length);
 
-        for (int z = 2;z >= (table.length-3);z--){
+        for (int z = 4;z >= (table.length-5);z--){
             System.out.println(table[z]);
         }
         System.out.println("wg");
