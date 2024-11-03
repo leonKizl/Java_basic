@@ -15,4 +15,8 @@ public class Students_class {
     public void clas (){
         System.out.println("I am on the  " + course +" course");
     }
+    public void NewString (int age){
+        System.out.println("sefefsefsefsefse\n\n\n\n\n" + age);
+        this.age = age;
+    }
 }
